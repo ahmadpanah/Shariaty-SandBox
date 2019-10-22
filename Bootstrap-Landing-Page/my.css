@@ -55,6 +55,23 @@ body {
     transform: translate(-50%, -55%);
   }
 
+  .features {
+    padding: 1em;
+    position: relative;
+    margin: 4em auto;
+  }
+
+  .features-title {
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+
+
+
+
+
+
 
 
 
